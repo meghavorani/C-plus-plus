@@ -1,4 +1,4 @@
-Constructor
+
 Constructer is intialize object .
 Constructor is defind as class name . When we create object of class then the constructor is automateic called itself .
 Constructor is always defined in public .
